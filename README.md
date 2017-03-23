@@ -1,0 +1,1 @@
+![lego](/images/lego-ninja-red.png)
